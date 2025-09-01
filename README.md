@@ -57,7 +57,7 @@ The dataset captures key aspects of ride-hailing dynamics:
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/dynamic-pricing-analysis.git
+git clone https://github.com/HarshalNikhade/Dynamic-Pricing-of-Ride-hailing-Services.git
 cd dynamic-pricing-analysis
 ```
 
