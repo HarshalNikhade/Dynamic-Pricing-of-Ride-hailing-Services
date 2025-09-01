@@ -109,8 +109,4 @@ Contributions are welcome!
 
 ---
 
-🔥 With this project, we aim to bridge the gap between **customer satisfaction** and **profitability** in ride-hailing through **smart pricing strategies**.
-
----
-
-Would you like me to also add a **workflow diagram (PNG/Markdown flowchart)** showing how data flows → preprocessing → analysis → dynamic pricing model, so your README looks more professional and visually engaging?
+🔥 With this project, I aim to bridge the gap between **customer satisfaction** and **profitability** in ride-hailing through **smart pricing strategies**.
